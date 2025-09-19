@@ -1,5 +1,3 @@
-Perfeito! Aqui está uma versão **profissional do README** em Markdown avançado, organizada, com tabelas, exemplos de payload e destaque de comandos para facilitar o uso no GitHub:
-
 ---
 
 # Wazuh Teams Integration
