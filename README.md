@@ -128,7 +128,3 @@ payload = {
 ```
 
 ---
-
-Se você quiser, posso ainda **adicionar uma seção com screenshots e fluxograma do fluxo do alerta do Wazuh até o Teams**, deixando o README ainda mais visual e amigável.
-
-Quer que eu faça isso também?
